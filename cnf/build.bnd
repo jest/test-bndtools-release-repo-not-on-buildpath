@@ -2,7 +2,7 @@
 	aQute.bnd.deployer.repository.LocalIndexedRepo; \
 		name = Release; \
 		pretty = true; \
-		local = ${workspace}/cnf/release2
+		local = ${workspace}/dist/bundles
 
 -releaserepo: Release
 -baselinerepo: Release
